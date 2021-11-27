@@ -1,7 +1,9 @@
-h2 Principles and Laws*
+# Outline for Worldbuilding
 
-*Geography*
+## Principles and Laws
 
-*Deities*
+## Geography
 
-*Culture*
+## Deities
+
+## Culture
