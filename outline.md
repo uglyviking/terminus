@@ -1,4 +1,4 @@
-h2. Principles and Laws*
+h2 Principles and Laws*
 
 *Geography*
 
